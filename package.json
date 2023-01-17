@@ -28,6 +28,10 @@
 	"files": [
 		"lib /**/*"
 	],
+	"repository" : {
+		"type" : "git",
+		"url" : "git+https://github.com/Subhrajyotimodak/Class-ify.git"
+	},
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"keywords": [
