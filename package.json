@@ -1,5 +1,5 @@
 {
-	"name": "class-ify",
+	"name": "@sjstrykr/class-ify",
 	"version": "0.0.1",
 	"description": "Manage long classNames",
 	"author": "Subhrajyoti Modak",
@@ -26,7 +26,7 @@
 		"typescript": "^4.9.4"
 	},
 	"files": [
-		"lib /**/*"
+		"lib/**/*"
 	],
 	"repository" : {
 		"type" : "git",
